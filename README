@@ -1,0 +1,33 @@
+TAREA LIKEDLIST
+
+Este proyecto contiene tres ejercicios relacionados con la manipulación de LinkedList en Java 
+Cada ejercicio resuelve un problema especifico y se acompaña de pruebas unitarias para verificar su correcto funcionamiento
+ 
+ Ejercicio 1:
+Eliminar Duplicados:
+
+Metodo: eliminarDuplicados(LinkedList<Integer> lista)
+Elimina duplicados de una lista, conservando solo la primera aparicion de cada numero.
+
+Pruebas: Verifica la eliminación de duplicados, manejo de listas vacías y fuerza un fallo.
+
+Ejercicio 2:
+Invertir Lista:
+
+Metodo: invertirLinkedList(LinkedList<String> lista)
+Invierte una lista sin usar estructuras adicionales.
+
+Pruebas: Verifica la inversion correcta y fuerza un fallo.
+
+Ejercicio 3:
+Intercalar Listas:
+
+Metodo: intercalarListas(LinkedList<Integer> lista1, LinkedList<Integer> lista2)
+Combina dos listas intercalando sus elementos en orden.
+
+Pruebas: Verifica la intercalación correcta y fuerza un fallo.
+
+Pruebas###
+Herramienta: JUnit 5.
+Estrategia: Cada ejercicio tiene pruebas que validan el comportamiento esperado y otras que fuerzan fallos.
+
